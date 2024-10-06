@@ -8,7 +8,7 @@ import Modelo.EstudianteArray;
 import javax.swing.table.DefaultTableModel;
 /**
  *
- * @author miguel
+ * @author USER 17
  */
 public class Registro extends javax.swing.JFrame {
     

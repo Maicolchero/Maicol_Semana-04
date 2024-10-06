@@ -4,7 +4,10 @@
  */
 
 package Modelo;
-
+/**
+ *
+ * @author USER 17
+ */
 public class Estudiante {
     private String codigo;
     private String nombre;
