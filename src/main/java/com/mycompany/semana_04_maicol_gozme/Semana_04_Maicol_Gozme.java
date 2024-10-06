@@ -8,7 +8,7 @@ import Vista.Registro;
 
 /**
  *
- * @author miguel
+ * @author User 17
  */
 public class Semana_04_Maicol_Gozme {
 
